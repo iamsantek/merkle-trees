@@ -1,2 +1,2 @@
 # merkle-trees
-Trying OpenZeppelin's MerkleProof libarry
+Trying OpenZeppelin's MerkleProof library
